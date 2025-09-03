@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+	<type name="Audi_RS6_ABT_White">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Driver" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_CoDriver" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Cargo1" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Cargo2" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Trunk" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Hood" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Audi_RS6_ABT_Red">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Driver_Red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_CoDriver_Red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Cargo1_Red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Cargo2_Red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Hood_Red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Trunk_Red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Audi_RS6_ABT_Blue">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Driver_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_CoDriver_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Cargo1_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Cargo2_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Hood_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Trunk_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Audi_RS6_ABT_Yellow">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Driver_Yellow" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_CoDriver_Yellow" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Cargo1_Yellow" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Cargo2_Yellow" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Hood_Yellow" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Trunk_Yellow" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Audi_RS6_ABT_Green">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Driver_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_CoDriver_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Cargo1_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Cargo2_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Hood_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Trunk_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Audi_RS6_ABT_Pink">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Driver_Pink" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_CoDriver_Pink" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Cargo1_Pink" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Cargo2_Pink" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Hood_Pink" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Trunk_Pink" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Audi_RS6_ABT_Teal">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Driver_Teal" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_CoDriver_Teal" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Cargo1_Teal" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Cargo2_Teal" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Hood_Teal" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Trunk_Teal" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Audi_RS6_ABT_MidNightBlue">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Driver_MidNightBlue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_CoDriver_MidNightBlue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Cargo1_MidNightBlue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Cargo2_MidNightBlue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Hood_MidNightBlue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Trunk_MidNightBlue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Audi_RS6_ABT_Black">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Driver_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_CoDriver_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Cargo1_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Cargo2_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Hood_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Trunk_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Audi_RS6_ABT_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+</spawnabletypes>
