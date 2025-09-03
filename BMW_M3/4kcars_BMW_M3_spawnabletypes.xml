@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+	<type name="BMW_M3_White">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_DriverDoor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_CoDriver" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_Hood" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_Trunk" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BMW_M3_Black">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_DriverDoor_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_CoDriver_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_Hood_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_Trunk_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BMW_M3_MidNightBlue">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_DriverDoor_MidNightBlue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_CoDriver_MidNightBlue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_Hood_MidNightBlue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_Trunk_MidNightBlue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BMW_M3_Green">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_DriverDoor_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_CoDriver_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_Hood_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_Trunk_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BMW_M3_Orange">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_DriverDoor_Orange" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_CoDriver_Orange" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_Hood_Orange" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_Trunk_Orange" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BMW_M3_Blue">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_DriverDoor_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_CoDriver_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_Hood_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_Trunk_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BMW_M3_Red">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_DriverDoor_Red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_CoDriver_Red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_Hood_Red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_Trunk_Red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BMW_M3_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+</spawnabletypes>
