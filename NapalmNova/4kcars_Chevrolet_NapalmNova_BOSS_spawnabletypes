@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+	<type name="Chevrolet_NapalmNova_Black">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Driverdoor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_CoDriver" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Hood" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Trunk" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Chevrolet_NapalmNova_White">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Driverdoor_White" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_CoDriver_White" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Hood_White" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Trunk_White" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Chevrolet_NapalmNova_Red">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Driverdoor_Red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_CoDriver_Red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Trunk_Red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Hood_Red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Chevrolet_NapalmNova_Blue">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Driverdoor_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_CoDriver_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Trunk_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Hood_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Chevrolet_NapalmNova_Green">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Driverdoor_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_CoDriver_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Trunk_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Hood_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Chevrolet_NapalmNova_Yellow">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Driverdoor_Yellow" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_CoDriver_Yellow" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Trunk_Yellow" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Hood_Yellow" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Chevrolet_NapalmNova_Pink">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Driverdoor_Pink" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_CoDriver_Pink" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Trunk_Pink" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Hood_Pink" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Chevrolet_NapalmNova_Purple">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Driverdoor_Purple" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_CoDriver_Purple" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Trunk_Purple" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Hood_Purple" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Chevrolet_NapalmNova_Orange">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Driverdoor_Orange" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_CoDriver_Orange" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Trunk_Orange" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Hood_Orange" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Chevrolet_NapalmNova_CamoGreen">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Driverdoor_CamoGreen" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_CoDriver_CamoGreen" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Trunk_CamoGreen" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Hood_CamoGreen" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Chevrolet_NapalmNova_NightFrost">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Driverdoor_NightFrost" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_CoDriver_NightFrost" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Trunk_NightFrost" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Hood_NightFrost" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Chevrolet_NapalmNova_Reptile">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Driverdoor_Reptile" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_CoDriver_Reptile" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Trunk_Reptile" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Hood_Reptile" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Chevrolet_NapalmNova_Topo">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Driverdoor_Topo" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_CoDriver_Topo" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Trunk_Topo" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Hood_Topo" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Chevrolet_NapalmNova_CamoRed">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Driverdoor_CamoRed" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_CoDriver_CamoRed" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Trunk_CamoRed" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Hood_CamoRed" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Chevrolet_NapalmNova_Skull">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Driverdoor_Skull" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_CoDriver_Skull" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Trunk_Skull" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Hood_Skull" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chevrolet_NapalmNova_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+</spawnabletypes>
